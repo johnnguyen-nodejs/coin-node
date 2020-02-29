@@ -1,0 +1,26 @@
+{
+  "name": "coin-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnnguyen-nodejs/coin-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnnguyen-nodejs/coin-node/issues"
+  },
+  "homepage": "https://github.com/johnnguyen-nodejs/coin-node#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  },
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+}
